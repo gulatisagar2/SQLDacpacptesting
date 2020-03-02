@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [devopsuser]
+    WITH PASSWORD = N'bt$bR!euNquX|&tpQocOu{slmsFT7_&#$!~<|{qOhh|sqwYs', SID = 0xDCEC4665C1D73743A78F00287D7084B7, DEFAULT_DATABASE = [Demodevops], DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+
